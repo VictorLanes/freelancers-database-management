@@ -16,6 +16,17 @@ Este projeto é uma aplicação simples que gerencia usuários e anúncios de fr
 - **SQLite** (banco de dados local)
 - **Peewee ORM** (para interação com o banco de dados)
 
+
+
+
+  git clone https://github.com/seu-usuario/seu-repositorio.git
+cd seu-repositorio
+python -m venv venv
+source venv/bin/activate   # Linux/Mac
+venv\Scripts\activate      # Windows
+pip install peewee
+
+
 ## 📂 Estrutura do Projeto
 
 ```plaintext
